@@ -1,0 +1,13 @@
+{
+  "brand": {
+    "name": "Mediwell",
+    "tagline": "Better care starts with a good match",
+    "description": "A healthcare directory concept for discovering professionals and comparing care options."
+  },
+  "specialties": ["Dermatology", "Cardiology", "Orthopaedics", "ENT", "Dentistry"],
+  "serviceTypes": ["Clinics", "Hospitals", "Dentists", "Pharmacies", "Care Homes"],
+  "locations": ["London", "Manchester", "Birmingham", "Glasgow", "Edinburgh", "Leeds"],
+  "treatments": ["Orthopaedic Surgery", "Plastic Surgery", "Dermatology", "Dental Procedures"],
+  "providerFeatures": ["Manage a professional profile", "Collect and respond to reviews", "Validate expertise", "View practice analytics"],
+  "demoNotice": "All people, ratings, reviews, appointment slots, and provider data in this preview are illustrative and are not connected to live services."
+}
